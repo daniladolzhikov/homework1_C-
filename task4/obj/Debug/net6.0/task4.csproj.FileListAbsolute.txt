@@ -1,0 +1,15 @@
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/obj/Debug/net6.0/task4.csproj.AssemblyReference.cache
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/obj/Debug/net6.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/obj/Debug/net6.0/task4.AssemblyInfoInputs.cache
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/obj/Debug/net6.0/task4.AssemblyInfo.cs
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/obj/Debug/net6.0/task4.csproj.CoreCompileInputs.cache
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/bin/Debug/net6.0/task4
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/bin/Debug/net6.0/task4.deps.json
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/bin/Debug/net6.0/task4.runtimeconfig.json
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/bin/Debug/net6.0/task4.dll
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/bin/Debug/net6.0/task4.pdb
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/obj/Debug/net6.0/task4.dll
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/obj/Debug/net6.0/refint/task4.dll
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/obj/Debug/net6.0/task4.pdb
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/obj/Debug/net6.0/task4.genruntimeconfig.cache
+/Users/daniladolzhikov/Documents/GB/3. Язык программирования С#/Семинары C#/homework1 C#/task4/obj/Debug/net6.0/ref/task4.dll
